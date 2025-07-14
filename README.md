@@ -1,7 +1,5 @@
 # 💫 Sobre Mim:
-## Olá! Sou Yasmin <br><br>💻 Estudante de Engenharia de Software na Unicesumar, cursando o 2° semestre<br>🌱 Atualmente estou aprendendo HTML, CSS e Javascript<br>
-
-
+## Olá! Sou Yasmin <br> ![Image](https://github.com/user-attachments/assets/81e9e839-db88-403b-82be-c50fb5304d2c) <br>💻 Estudante de Engenharia de Software na Unicesumar, cursando o 2° semestre<br>🌱 Atualmente estou aprendendo HTML, CSS e Javascript<br> 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
